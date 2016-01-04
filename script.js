@@ -1,1 +1,4 @@
-
+function runAtRunTime(){
+  alert('test');
+  
+}
