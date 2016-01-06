@@ -1,10 +1,5 @@
 function runAtRunTimeBeforeLoad(){
   
-  
-  
-  
-  
-  
   /*
   var	db = window.sqlitePlugin.openDatabase({name: "NewsCast.db", createFromLocation: 1});
   db.transaction(function(tx) {
@@ -17,4 +12,9 @@ function runAtRunTimeBeforeLoad(){
 function runAtRunTimeAfterLoad(){
   //alert('test1');
   
+}
+
+
+function registerDevice1(deviceID){
+
 }
